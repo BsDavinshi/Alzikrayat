@@ -1,0 +1,11 @@
+public/images/uploads/*
+!public/images/uploads/.htaccess
+!public/images/uploads/.gitkeep
+
+.env
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
